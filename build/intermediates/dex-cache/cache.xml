@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_75628bc38ab1605818148fb2a050866d83c51a9b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_ae93a93d828624d3846507bceab02b8fd5f35e92/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6e16eb8cbfe36e5b6984ff65093c9a1e7a196b5e">
+        <dex dex="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d72a7fc9abd12d255e8a383553ed7764e47437b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nicolas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_424c29b7260513757170e9b71e948f0a3713403a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_526604eee7f0961e54572f202a858b924b058c3e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="6a6a50eb7255ded576b562e1666ed29f5eb80927">
+        <dex dex="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ec9daf6ee5f8b1ba95c53a551d3b8bf09b439e3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_c8277964ccfdd3c8e2260775c12fa9a9686a853b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/nicolas/Desktop/CourseraAndroidmes2/Miprimerproyetoandroidcoursera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_f5a56c174fc3f49ce9acd6d60af3d36717bc4e16/classes.dex" />
+    </item>
+
+</items>
